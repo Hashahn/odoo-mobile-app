@@ -1,6 +1,6 @@
 # Odoo Mobile Application
 
-Mobile application for interacting with Odoo 17.0 ERP system at https://ilimasu.ru.tuna.am/
+Mobile application for interacting with Odoo 17.0 ERP system
 
 ## Features
 
