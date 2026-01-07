@@ -64,7 +64,7 @@ The application can be configured by modifying the settings in `src/config/api.c
 
 ## Testing
 
-For testing the application with the live server at https://ilimasu.ru.tuna.am/, please refer to the [Testing Guide](./docs/testing_guide.md).
+Please refer to the [Testing Guide](./docs/testing_guide.md).
 
 ## API Integration
 
